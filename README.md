@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satansu
-- 👀 I’m interested in the fields of Data Science and Artificial Intelligence.
-- 🌱 I’m currently learning AI/ML on Python, with an emphasis on Neural Networks.
+- 👀 I’m interested in the fields of Bioinformatics and Neural Networks.
+- 🌱 I’m currently working on research papers in the aforementioned fields and learning new concepts in the same domains.
 - 📫 How to reach me - mohantysatansu@gmail.com
 
 <!---
